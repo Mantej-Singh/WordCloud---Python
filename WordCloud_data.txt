@@ -1,0 +1,157 @@
+
+xda-developers
+
+    FORUMS
+    Apps, ROMs, Customization
+
+    ANALYSIS
+    Editorials & Opinion
+
+    LOGIN
+    Jump back in
+
+    REGISTER
+    Takes just a sec!
+
+search plus
+
+ 
+Samsung Details Issues with Galaxy Note 7 Batteries, Phone Itself Not to Blame	
+January 22, 2017 42 Comments Mario Tomás Serrafero	
+Samsung Details Issues with Galaxy Note 7 Batteries, Phone Itself Not to Blame
+The battery caused the battery explosion. Yeah, really.
+
+The Galaxy Note 7 was recalled on September 2, only two weeks after its initial release. By October 11, the phone had been discontinued globally following reports of continued failures in the replacement models Samsung shipped shortly after.
+
+As of today, 96% of around 3 million Galaxy Note 7 units that were sold and activated have been returned, following a large recall campaign carried out by Samsung, retailers and mobile carriers.
+
+Today, Samsung finally disclosed the results of its intensive investigations on the battery defects that lead to thermal failure of multiple Galaxy Note 7 devices across the globe. The company assigned over 700 engineers to analyze thousands of devices and over thirty thousand batteries. Samsung claims it thoroughly examined every aspect of the device internally to determine the cause of the incident, including: hardware and software related processes, assembly, quality assurance, testing and logistics. On top the internal investigation, the company hired three different firms to provide an objective assessment of the issue at hand, starting with the first recall.
+
+Research & Testing
+
+The most important step was replicating the incident, and for this Samsung built a large-scale charge and discharge testing facility, with hundreds of automated charging and discharging processes for hundreds of Galaxy Note 7 devices. The company used this facility to test likely factors that could have led to the battery incidents. They managed to rule out various probable causes including the effect of fast charging and regular charging through both Samsung’s Adaptive Fast Charging technology and Wireless Charging. Testing was also carried out without the device’s back to find out whether the back plate’s pressure or thermal constraints (introduced by the phone’s waterproofing) had a significant impact in the incidence rates. They also tested the Iris Scanner and the USB Type C port, which was subjected to high voltages way past specification. Finally, the company made sure software didn’t impact the incidence rates by testing pre-loaded and third-party applications during the test.
+
+Samsung’s testing facility shown in the background.
+
+Past this discrete testing environment, Samsung also did a full investigation of component quality assurance, and tracked the handling of all parts throughout the manufacturing process. All of these procedures demonstrated no abnormalities, and the charge and discharge tests both showed similar rates of incidence, indicating that the battery cell itself was at fault. Below is a summation of the conclusions that Samsung arrived to after their own internal investigation and the research done by firms UL, Exponent and TUV Rheinland. The company didn’t specify the battery manufacturer’s names during the presentation, only referring to them as Company A and Company B, the latter’s batteries having been employed in recalled devices.
+
+Battery Analysis Results
+
+The battery provided by company A and by battery B had different strenuous factors that damaged the separator or electrodes, or lead to cell faulting.
+
+In battery A, the design of the cell pouch did not allow enough room for the battery internals, in turn bending the negative electrodes and putting strain in the battery separator. The incidence consistently occurred in the upper-right corner of the “jelly roll”. The main cause was thus the deflection of negative electrodes, including incorrect positioning of the negative electrode teeth.
+
+Field tests and disassembling procedures suggested that the issues with batteries from company A came from a combination of assembly and manufacturing issues, as well as issues with the battery design itself. The density of the battery also increased the chances of severe failure, but additional research was needed to pinpoint the cause of the deformed corners putting stress in the negative electrodes. A thinner separator could also have led to poorer protection and reduced tolerance to manufacturing defects. Some batteries also had missing tape on the insulator tab. What’s certain is that a combination of deformation at the upper corners, a thin separator and the mechanical stresses due to natural cycling make for a major failure mechanism.
+
+The batteries from company B were actually tested before they were distributed in a recall, and they were assessed to be safe by Exponent and other analysts. While it didn’t showcase the same apparent issues as battery A (shown in the picture to the right), particularly the ones that were quickly determined to have been a factor leading to thermal failure, the batteries from company B also had their own manufacturing defects found after they had been shipped.
+
+While company B’s batteries didn’t have device-level compatibility issues that contributed to its failure, but many compounding factors relating to production quality and battery designed came together and led to the Note 7’s failure. First, production quality issues included missing insulation tape which increased the incidence rates of battery short circuit. Second, a bigger protrusion of welding points in the tab lead to a higher chance of separator puncture. Finally, general misalignment of insulation tape also increased the risk of failure.
+
+For the second set the battery design itself allowed more room for the jelly roll, but a thinner separator still led to poorer protection and reduced tolerance to manufacturing defects as seen with batteries from company A. Without the apparent flaw in the corners, the combination of missing insulation tape, sharp edged protrusions and a thin separator led to a higher probability of short circuit between the cathode tab and the anode, which resulted in the heating and fire. Exponent found that the most likely root cause for the thermal failure was determined to be internal cell faulting between the positive electrode tab welding defects (tall enough to bridge the gap) and the copper foil of the negative electrode.
+Fool me twice…?
+
+It’s clear that Samsung went through a lot of trouble to find the root cause of what’s likely to go down in history as the biggest, most expensive consumer product recall. While there are many questions that remain unanswered, Samsung did a decent job at disclosing the issues at hand, knowing the constraints that come with extensive supply chains, partnerships, and the like. Overall, Samsung pulled off one last act of transparency that begins redeeming their poor handling of the situation early into the fiasco. The speakers from UL, Exponent and TUV Rheinland arrived to the same conclusions and it does seem that the Note 7 itself was not the main cause of the thermal failure, as this was allegedly ruled out by Samsung’s internal testing.
+
+    “The incidents with phone explosions, that can happen with any OEM. It could happen with us on our next product, so it should not be something that we use as an opportunity — we should use this as a reminder.”
+    Carl Pei, Co-founder of OnePlus
+
+As Carl Pei told XDA in an interview, this is something OEMs need to keep in mind for future quality assurance of their devices, as while Samsung is big enough to weather such storm, a recall on this scale could be devastating to any smaller company. Moreover, this puts into perspective the volatility that manufacturing defects in the order of 80 microns can introduce to a consumer product. Samsung is keen on making sure this scenario never repeats itself, and they are putting forth a broad range of internal quality assurance and safety processes to enhance product safety. Multi-layer safety measures, 8-point battery safety check, and forming a Battery Advisory Group are just some of the items on Samsung’s list of prevention measures. It seems that the South Korean giant is determined to gain back consumer trust, so we can’t say we expect an issue of this magnitude to come about in 2017.
+
+The Galaxy S8 is very close, so it’s only a matter of time before we see whether Samsung can shrug off the bad fame (and unending memes) that the Note 7 brought about.
+
+Does this bring closure to the Note 7 fiasco in your eyes? Let us know what you think!
+
+Discuss This Story
+Tags
+battery
+Galaxy Note 7
+note 7
+Samsung
+You might also like
+Which Device Do You Want an Android 7.0 Nougat Custom ROM on?	
+865 Comments
+Which Device Do You Want an Android 7.0 Nougat Custom ROM on?
+Signs of Life For Android Pay in Canada: Interac Imagery Added in Version 1.7	
+4 Comments
+Signs of Life For Android Pay in Canada: Interac Imagery Added in Version 1.7
+Acer Will No Longer Be Selling Smartphones in India	
+7 Comments
+Acer Will No Longer Be Selling Smartphones in India
+About Author
+Mario Tomás Serrafero
+
+Mario Tomás Serrafero 426 posts see posts >
+
+Mario developed his love for technology in Argentina, where a flagship smartphone costs a few months of salary. Forced to maximize whatever device he could get, he came to know and love XDA. His passion for Android turns into obsession the moment he finds a new wakelock or sees a stutter. Whenever this happens, he feels compelled to fix the issues learning something new in the process.
+Remove All Ads from XDA
+Latest XDA News
+Battery Failures May Delay Release of Samsung Galaxy S8	
+Battery Failures May Delay Release of Samsung Galaxy S8
+January 23, 2017
+Android Instant Apps Starts Initial (Limited) Live Testing	
+Android Instant Apps Starts Initial (Limited) Live Testing
+January 23, 2017
+Google Voice Finally Gets Updated with New App Design, Crucial IM Features	
+Google Voice Finally Gets Updated with New App Design, Crucial IM Features
+January 23, 2017
+Official Lineage OS Builds Start Rolling Out For Nexus 6P, Nexus 5X, Nextbit Robin, and More	
+Official Lineage OS Builds Start Rolling Out For Nexus 6P, Nexus 5X, Nextbit Robin, and More
+January 23, 2017
+Qualcomm Shares Opinion on the Recent Apple Lawsuit: “Apple’s Claims are Baseless”	
+Qualcomm Shares Opinion on the Recent Apple Lawsuit: “Apple’s Claims are Baseless”
+January 23, 2017
+From the Forums
+January 2017 Security Update Rolling out to the Huawei Watch
+January 11, 2017 10 Posts
+How to Enable Google Assistant Without Changing Your Device’s Model Name
+January 11, 2017 173 Posts
+An Explanation of why SuperSU has Trouble with F2FS Data Partitions
+January 10, 2017
+Pure Nexus ROM Available for the Google Pixel
+January 7, 2017 720 Posts
+OxygenOS 4.0.1 Developer Preview is now Rolling Out for the OnePlus 3
+January 6, 2017 198 Posts
+How to Convert the Chinese Xiaomi Amazfit into the English Xiaomi Amazfit PACE
+January 5, 2017 516 Posts
+Official Resurrection Remix For The OnePlus 3T Updated
+January 4, 2017
+More Forum Links
+Buy/Sell on Swappa
+OnePlus 3 (Unlocked)
+OnePlus 3 (Unlocked)
+Buy at $375
+Sell device
+Nexus 6P (Unlocked) [A1]
+Nexus 6P (Unlocked) [A1]
+Buy at $250
+Sell device
+HTC 10 (Unlocked)
+HTC 10 (Unlocked)
+Buy at $400
+Sell device
+Samsung Galaxy S7 Edge (Verizon) [SM-G935V]
+Samsung Galaxy S7 Edge (Verizon) [SM-G935V]
+Buy at $395
+Sell device
+Nexus 5 (Unlocked)
+Nexus 5 (Unlocked)
+Buy at $94
+Sell device
+Hosted by Leaseweb
+
+XDA Developers was founded by developers, for developers. It is now a valuable resource for people who want to make the most of their mobile devices, from customizing the look and feel to adding new functionality.
+Are you a developer?
+More info
+
+    Contact
+    Rules
+    Suggest Content
+    Security
+    Privacy Policy
+    XDA App
+    Root Any Device
+
+
+Copyright © xda-developers. Hosted by Leaseweb
+We're Social
+
